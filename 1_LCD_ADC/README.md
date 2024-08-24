@@ -1,4 +1,4 @@
-# Project: LCD ADC using the Atmega324p Microcontroller
+# Project: Display ADC voltage on a 16x2 LCD display using the Atmega324p Microcontroller
 
 ## The aim
 The aim of this project is to show how to display ADC channel 0 values on the 16x2 LCD display using the ATmega324p microcontroller.
